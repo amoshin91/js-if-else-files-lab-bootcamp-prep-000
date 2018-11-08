@@ -1,7 +1,7 @@
 var name = "Susan"
 var height = "70"
 
-document.height = parseInt(querySelector.height)
+var = parseInt(height)
 
 
 // Don't worry about this
